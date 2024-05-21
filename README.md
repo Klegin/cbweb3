@@ -12,5 +12,5 @@ Organização inicial:
 ![image](https://github.com/Klegin/cbweb3/assets/79160178/21192f0f-e468-4f39-9fda-5c71526bbea4)
 
 ⚠️ <sub> - NOTA - 
-Ainda em desenvolvimento : 21/05/2024 : 06h13m
+Ainda em desenvolvimento : 09/05/2024 : 09h41m
 </sub>
